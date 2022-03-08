@@ -1,11 +1,9 @@
 
 <div align="center">
-  
-  <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
-  
 
 <div align ="left">
-### 👩‍💻About Me👩‍💻
+
+  ### 👩‍💻About Me👩‍💻
 - 컴퓨터학과를 전공하여, `앱 프론트`, `웹 백엔드`에 관심이 많습니다.
 - **세상을 바꾸는 아이디어**에 관심이 많습니다. 어떻게 하면 더 나은 세상을 만들 수 있는지, 흥미로운 생각들을 구현하는 것을 좋아합니다.
 - 모르는 부분에 대해서는 적극적인 자세로 **빠르게 습득**하여 나만의 것으로 만듭니다.
