@@ -7,8 +7,10 @@
 - **노션, 슬랙, 디스코드, 게더타운** 등 업무의 효율성을 높이는 툴을 빠르게 도입하고 사용법을 익혀 사용하고 있습니다.
 - 잘못한 부분들에 대해서 **빠르게 인정**하고 공부하여, **팀의 성장을 도모**합니다.
 
-- 🎓동덕여자대학교 컴퓨터학과 재학 ( 2018.03 ~ 2023년 7월 졸업예정)\
-- 🌱 I’m currently learning on Dongduk Women University in Seoul...
+<br/> 
+
+#### 🎓동덕여자대학교 컴퓨터학과 재학 ( 2018.03 ~ 2023년 7월 졸업예정)
+#### 🌱 I’m currently learning on Dongduk Women University in Seoul...
 
 ## 📩 How to reach me:
 #### 🌝이메일 email : bbb3631@naver.com <br/> 
