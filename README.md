@@ -1,4 +1,10 @@
-<div width = "50%">
+
+<div align="center">
+  
+  <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+  
+
+<div align ="left">
 ### 👩‍💻About Me👩‍💻
 - 컴퓨터학과를 전공하여, `앱 프론트`, `웹 백엔드`에 관심이 많습니다.
 - **세상을 바꾸는 아이디어**에 관심이 많습니다. 어떻게 하면 더 나은 세상을 만들 수 있는지, 흥미로운 생각들을 구현하는 것을 좋아합니다.
@@ -16,8 +22,9 @@
 ## 📩 How to reach me:
 #### 🌝이메일 email : bbb3631@naver.com <br/> 
 #### 🌝블로그 blog : https://vanillacreamdonut.tistory.com/ 
+
 </div>
-<div width = "50%>
+<div align="right">
               
 ### 💪 Skills
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C-092E20?style=flat-square&logo=C&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-092E20?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -29,4 +36,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujindonut&layout=compact&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
   
 ![yujindonut's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujindonut&show_icons=true&theme=vue)
+
+</div>
 </div>
