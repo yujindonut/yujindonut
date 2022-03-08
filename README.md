@@ -1,3 +1,4 @@
+<div width = "50%">
 ### 👩‍💻About Me👩‍💻
 - 컴퓨터학과를 전공하여, `앱 프론트`, `웹 백엔드`에 관심이 많습니다.
 - **세상을 바꾸는 아이디어**에 관심이 많습니다. 어떻게 하면 더 나은 세상을 만들 수 있는지, 흥미로운 생각들을 구현하는 것을 좋아합니다.
@@ -15,9 +16,10 @@
 ## 📩 How to reach me:
 #### 🌝이메일 email : bbb3631@naver.com <br/> 
 #### 🌝블로그 blog : https://vanillacreamdonut.tistory.com/ 
-
+</div>
+<div width = "50%>
+              
 ### 💪 Skills
-<div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C-092E20?style=flat-square&logo=C&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-092E20?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
 <hr>
