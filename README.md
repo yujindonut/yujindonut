@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<div align ="left">
-
   ### 👩‍💻About Me👩‍💻
 - 컴퓨터학과를 전공하여, `앱 프론트`, `웹 백엔드`에 관심이 많습니다.
 - **세상을 바꾸는 아이디어**에 관심이 많습니다. 어떻게 하면 더 나은 세상을 만들 수 있는지, 흥미로운 생각들을 구현하는 것을 좋아합니다.
@@ -21,7 +19,6 @@
 #### 🌝이메일 email : bbb3631@naver.com <br/> 
 #### 🌝블로그 blog : https://vanillacreamdonut.tistory.com/ 
 
-</div>
 <div align="right">
               
 ### 💪 Skills
