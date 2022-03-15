@@ -1,5 +1,4 @@
 
-<div align="center">
 
   ### 👩‍💻About Me👩‍💻
 - 컴퓨터학과를 전공하여, `앱 프론트`, `웹 백엔드`에 관심이 많습니다.
@@ -11,7 +10,7 @@
 - 잘못한 부분들에 대해서 **빠르게 인정**하고 공부하여, **팀의 성장을 도모**합니다.
 
 <br/> 
-
+<div align="center">
 #### 🎓동덕여자대학교 컴퓨터학과 재학 ( 2018.03 ~ 2023년 7월 졸업예정)
 #### 🌱 I’m currently learning on Dongduk Women University in Seoul...
 
