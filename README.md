@@ -27,7 +27,7 @@
   
 <hr>
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb3631)](https://solved.ac/bbb3631)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbb3631)](https://solved.ac/bbb3631) -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujindonut&layout=compact&theme=vue&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
   
