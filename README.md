@@ -1,10 +1,10 @@
 ### Han Yujin
 - 🌱 Junior Developer
-- 🔗 Links [github](https://github.com/yujindonut) | [blog](https://vanillacreamdonut.tistory.com/)
+- 🔗 [Github](https://github.com/yujindonut) | [Blog](https://vanillacreamdonut.tistory.com/)
 - 📩 Mail [bbb3631@naver.com](mailto:bbb3631@naver.com)
 
 ## 👩🏻‍💻 Experience
-- KoreaCenter Corp Intern (2022.09.01 ~ )
+- [KoreaCenter Corp Intern](https://www.koreacenter.com/) (2022.09.01 ~ )
   - Backend Developer 
   - ServiceDevelop Team
 
