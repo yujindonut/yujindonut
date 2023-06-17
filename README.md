@@ -4,12 +4,12 @@
 - 📩 Mail [bbb3631@naver.com](mailto:bbb3631@naver.com)
 
 ### 🚀 Experience
-- [KoreaCenter Corp Intern](https://www.koreacenter.com/) (2022.09.01 ~ )
+- [KoreaCenter Corp Intern](https://www.koreacenter.com/) (2022.09.01 ~ 2022.12.31)
   - Backend Developer 
   - ServiceDevelop Team
 
 ### 🎓 Education
-**Dongduk Women's University (2018.03 ~ 2023.07)**
+**Dongduk Women's University (2018.03 ~ 2023.08)**
 > Computer Science
 
 ### 🎈 Activities
@@ -18,7 +18,7 @@
 -   [SOPT](http://sopt.org) 30th iOS (2022.03 ~ 2022.07)
 -   [UMC](https://www.makeus.in/umc) DDWU 2nd Leader & Server (Spring Boot) (2022.03 ~ 2022.07) 
 -   [SOPT](http://sopt.org) 31th Server (Node.js) (2022.09 ~ 2023.01)
-
+-   [SOPTMAKERS](https://playground.sopt.org/) Soptmakers 2기 (2023.02 ~ )
 
 ### 💪🏻 Skills
 
